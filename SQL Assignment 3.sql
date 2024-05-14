@@ -7,8 +7,6 @@ insert into sqlass33 values
 ('102','kapil','shah','200105','product_executive','50','marketing','1996-05-12','15000.55','1');
 
 
-
-
 1#List the last name, first name and employee number of all 
       'Programmers who were hired on or before 21 May 1991 sorted in ascending order of last name.';
 
